@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: red;
+
+}
+
+.nav{
+    font-size: 40px;
+
+}
+
+.design{
+    padding: 5px;
+    border-top: 1px solid red;
+    border-bottom: 2px solid red;
+    
+}
+
+td{
+    padding: 10px;
+    padding-left: 300px;
+}
+
